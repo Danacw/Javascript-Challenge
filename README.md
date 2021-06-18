@@ -5,7 +5,7 @@ For this project, I built an interative webpage using JavaScript and JavaScript'
   - My html file that links to my javascript app and data.
 
 **static folder:**
-  - static/style.css | My css file that adds dynamic styling to the page.
-  - static/data.js | The data used to populate my table.
-  - static/app.js | The JavaScript app that links the data and adds filtering functions.
+  - static/css/style.css | My css file that adds dynamic styling to the page.
+  - static/js/data.js | The data used to populate my table.
+  - static/js/app.js | The JavaScript app that links the data and adds filtering functions.
   - static/images | Commericially available images used to design the page.   
