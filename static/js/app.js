@@ -44,9 +44,6 @@ filters =[]
 //define event handler function for the form
 function runEnter() {
 
-    // prevent the page from refreshing
-    //d3.event.preventDefault();
-
     //save input values as a variables
     var inputDate = datetime.property("value");
     var inputCity = city.property("value");

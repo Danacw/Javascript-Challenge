@@ -9,8 +9,7 @@ body {
   background-image: url("../images/sky.jpeg");
 }
 
-
-  /* _______Navbar Styles_______ */
+/* _______Navbar Styles_______ */
 .nav-ufo {
   position:sticky;
   bottom: 5px;
