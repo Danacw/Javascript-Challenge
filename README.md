@@ -1,5 +1,5 @@
 # Javascript-Challenge
-You can view the app for this challenge here: https://danacw.github.io/Javascript-Challenge/.
+You can view the app for this challenge here: https://danacw.github.io/UFO-Sightings-Interactive-Database/.
 
 For this project, I built a webpage using JavaScript and JavaScript's D3 library to display data on UFO sightings around the world. The user has the ability to filter through the data and view sightings based on date, city, state, country, and/or shape. 
 **index.html:**
